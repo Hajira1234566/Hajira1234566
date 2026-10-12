@@ -1,10 +1,7 @@
 ## Hi👋, am Hajira 
-   DevOps & Backend Engineer with 3.8 years at Tata Consultancy Services specialising in CI/CD pipeline automation (Jenkins, Docker/Podman), 
-  RESTful API development (Spring Boot), and enterprise infrastructure management (JBoss EAP, Apache ActiveMQ, JFrog Artifactory). Delivered 
-  across major BFSI and capital markets engagements with a strong focus on security (CyberArk, HTTPS/TLS) and agile collaboration. Actively 
-  building foundational AWS cloud knowledge.
-  can you add something for terraform and docker and kubernetes 
+   DevOps & Backend Engineer with 3.10 years of experience at Tata Consultancy Services.
 
+   
 <!--
 **Hajira1234566/Hajira1234566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
